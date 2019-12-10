@@ -37,8 +37,8 @@
     <paste gradle-build content here>
     :wq!
   
-# Added a Jenkinsfile
+# Add Jenkinsfile to Project
 
 
-# Added a Dockerfile
+# Add Dockerfile to Project
 
