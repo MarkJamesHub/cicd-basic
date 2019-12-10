@@ -1,9 +1,9 @@
 task sayHello {
-  printIn 'Hello, World!'
+  println 'Hello, World!'
 }
 
 task anotherTask {
-  printIn 'This is another task'
+  println 'This is another task'
 }
 
-sayHello.dependsOn another task
+sayHello.dependsOn anotherTask
