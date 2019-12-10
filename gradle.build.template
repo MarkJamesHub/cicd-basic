@@ -1,5 +1,8 @@
 
-task myTask {
+task sayHello {
   printIn 'Hello, World!'
 }
 
+task anotherTask {
+  printIn 'This is another task'
+}
