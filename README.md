@@ -20,7 +20,7 @@
   
   Note: gradlew is for mac/linux         gradlew.bat is for windows
   
-  run: ./gradlew build
+    ./gradlew build
   
   
 # Added a Jenkinsfile
