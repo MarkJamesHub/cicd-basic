@@ -30,17 +30,18 @@
   
   Note: gradlew is for mac/linux         gradlew.bat is for windows
   
-  Run a gradle build to download files for the firsttime
-  
-    ./gradlew build
-  
-  Configure build.gradle file
+  Edit build.gradle file (add some build tasks)
   
     vi build.gradle
     i
     <paste gradle.build.template content here>
     :wq!
   
+  Run a gradle build
+  
+    ./gradlew build
+    
+ 
 # Add Jenkinsfile to Project
 
 
