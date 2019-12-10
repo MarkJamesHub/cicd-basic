@@ -1,13 +1,9 @@
-
 # Gradle node.js plugin
-
 plugins {
   id 'com.moowork.node' version '1.2.0'
 }
 
-
 # Tasks to run (in order)
-
 task sayHello {
   println 'Hello, World!'
 }
