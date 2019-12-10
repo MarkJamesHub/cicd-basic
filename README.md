@@ -1,5 +1,5 @@
 
-# Added Gradle Wrapper to project (allow Gradle to install itself on the target)
+# Add Gradle Wrapper to project
 
   Install dependancies: java-1.8.0-openjdk
   
