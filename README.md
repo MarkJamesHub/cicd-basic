@@ -26,7 +26,12 @@
   
   Note: gradlew is for mac/linux         gradlew.bat is for windows
   
+  Run a gradle build to download files for the firsttime
+  
     ./gradlew build
+  
+  Configure build.gradle file
+  
   
   
 # Added a Jenkinsfile
