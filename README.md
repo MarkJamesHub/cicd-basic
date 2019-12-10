@@ -32,7 +32,10 @@
   
   Configure build.gradle file
   
-  
+    vi .gitignore
+    i
+    <paste gradle-build content here>
+    :wq!
   
 # Added a Jenkinsfile
 
