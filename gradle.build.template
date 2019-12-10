@@ -6,3 +6,5 @@ task sayHello {
 task anotherTask {
   printIn 'This is another task'
 }
+
+sayHello.dependsOn another task
