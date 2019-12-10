@@ -15,6 +15,10 @@
 
   initialise the repo
 
+    gradle init
+    
+    or
+    
     gradle wrapper
 
   exclude gradle dir in .gitignore
