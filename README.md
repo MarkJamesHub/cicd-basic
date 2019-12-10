@@ -32,7 +32,7 @@
   
   Run a gradle build to download files for the firsttime
   
-    ./gradlew init
+    ./gradlew build
   
   Configure build.gradle file
   
