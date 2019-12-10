@@ -34,7 +34,7 @@
   
     vi .gitignore
     i
-    <paste gradle-build content here>
+    <paste gradle-build-template content here>
     :wq!
   
 # Add Jenkinsfile to Project
