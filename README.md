@@ -28,11 +28,11 @@
   
   Run a gradle build to download files for the firsttime
   
-    ./gradlew build
+    ./gradlew init
   
   Configure build.gradle file
   
-    vi .gitignore
+    vi build.gradle
     i
     <paste gradle.build.template content here>
     :wq!
