@@ -20,15 +20,6 @@
     or
     
     gradle wrapper
-
-  exclude gradle dir in .gitignore
-  
-    vi .gitignore
-    i
-    .gradle
-    :wq!
-  
-  Note: gradlew is for mac/linux         gradlew.bat is for windows
   
   Edit build.gradle file (add some build tasks)
   
