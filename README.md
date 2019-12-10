@@ -11,7 +11,7 @@
 
   go to repo
   
-    cd jenkinstest
+    cd cicd-basic
 
   initialise the repo
 
