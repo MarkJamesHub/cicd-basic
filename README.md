@@ -5,15 +5,18 @@
 
   Install Gradle 6.0.1
   
-    .brew install gradle
+    brew install gradle
 
   go to repo: cd jenkinstest
 
-  run: gradle wrapper
+    gradle wrapper
 
   exclude in .gitignore
   
-    .gradle (directory)
+    vi .gitignore
+    i
+    .gradle
+    :wq!
   
   Note: gradlew is for mac/linux         gradlew.bat is for windows
   
